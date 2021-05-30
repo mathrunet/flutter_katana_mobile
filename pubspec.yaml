@@ -1,6 +1,6 @@
 name: katana_mobile
 description: Katana framework provides a utility that works only on mobile (iOS, Android).
-version: 0.8.1+2
+version: 0.8.2
 homepage: https://mathru.net
 repository: https://github.com/mathrunet/flutter_katana_mobile
 
